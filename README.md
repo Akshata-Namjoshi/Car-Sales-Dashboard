@@ -3,3 +3,4 @@ The dashboard typically includes features such as
 Sales Performance Metrics
 Customer Demographics
 Profitability Analysis
+You can see the dashboard in attached link
